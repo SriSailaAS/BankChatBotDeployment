@@ -24,7 +24,7 @@ six==1.16.0
 scikit-learn==1.0.2
 sympy==1.10.1
 torch==1.13.1
-torchvision==0.15.1
+torchvision==0.14.1
 typing_extensions==4.5.0
 urllib3==1.26.15
 Werkzeug==2.2.2
