@@ -34,3 +34,4 @@ nltk==3.8.1
 regex==2022.10.31
 tqdm==4.65.0
 gunicorn==19.7.1
+zipp==3.8.1
